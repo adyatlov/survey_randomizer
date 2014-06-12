@@ -1,9 +1,6 @@
 survey_randomizer
 =================
 
-survey_randomizer
-=================
-
 We have a set of survey questions that we require a fixed number of answers for each.
 Due to technical limitations of the survey host we cannot set up suitable randomisation there.
 One solution has been proposed which is to set up a number of different surveys.
